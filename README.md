@@ -1,1 +1,1 @@
-PHP library to use to improve your codes.
+PHP library to improve your codes.
